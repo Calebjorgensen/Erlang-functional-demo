@@ -8,23 +8,20 @@ This is to be used as a guide to help teach, show, and list the basics that can 
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/tGR4oiofEGI)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The tools I used was homebrew, Erlang, and Rebar3.
 
-{Describe the programming language that you used and any libraries.}
+From my understanding the way you test and run your code is with rebar3, you need to make sure that it is install and linked your project you are working on. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Erlang](https://www.erlang.org/faq/getting_started)
+* [MarketPlace](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Show have to set up Erlang on your system, and Rebar3
+* Make eaiser test cases. 
